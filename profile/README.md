@@ -28,6 +28,4 @@
 
 BitByteBin - [@BitByteBin](https://twitter.com/BitByteBin)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
 <!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
